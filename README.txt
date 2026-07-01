@@ -1,5 +1,7 @@
 # Compra Inteligente
 
+https://matheus-f-reis.github.io/compra-inteligente/
+
 Projeto desenvolvido para a disciplina Construção de Páginas Web II do Instituto Federal do Sudeste de Minas Gerais.
 
 ## Objetivo
