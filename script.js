@@ -78,7 +78,7 @@ Responda apenas em JSON:
 }
 `;
 
-    const CHAVE_API = "AQ.Ab8RN6Iyf_zrtevyZ1MLbZ8hkX9gZ0qzo1Q1DoXA9f1yzBsIgQ"; 
+    const CHAVE_API = "AIzaSyD_zLqL1xdpdHBNQr6m8QK0JFzeiQY8soo"; 
     const URL = `https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=${CHAVE_API}`;
 
     const res = await fetch(URL, {
